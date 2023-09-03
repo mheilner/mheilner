@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I'm Mark  👋
+![image](https://github.com/mheilner/mheilner/assets/108209902/f35c4eaa-42cb-4b5e-9398-476b7738210b)
 
 <!--
 **mheilner/mheilner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
