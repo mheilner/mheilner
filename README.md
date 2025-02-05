@@ -1,7 +1,7 @@
 ### Hi, I'm Mark  👋
-![image](https://github.com/mheilner/mheilner/assets/108209902/f35c4eaa-42cb-4b5e-9398-476b7738210b)
+![image](https://github.com/user-attachments/assets/b7c69ed2-0735-49d1-b6fb-74213ecf3e98)
 
-I'm a passionate software and data engineer using technologies like AWS, Docker, and Python to turn data into effective decisions. My education in Computer Science and Machine Learning fuels my curiosity for asking the right questions and building software that leads to a better answer. I see technology as a force for positive change and aim to put it to the right use as I innovate and contribute to business growth.
+I'm a passionate AI and Data Engineer using technologies like LLMs, AWS, Docker, and Python to turn data into effective decisions. My education in Computer Science and Machine Learning fuels my curiosity for asking the right questions and building software that leads to a better answer. I see technology as a force for positive change and aim to put it to the right use as I innovate and contribute to business growth.
 
 <!--
 **mheilner/mheilner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
